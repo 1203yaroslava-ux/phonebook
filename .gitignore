@@ -1,0 +1,7 @@
+*.pro.user*
+build-*/
+*.exe
+*.o
+moc_*
+contacts.txt
+phonebook.ini
